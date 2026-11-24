@@ -5,7 +5,9 @@
 **Computer Science & Technology Student | Aspiring Software Engineer | Python & Web Developer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-mdyusufalibd-181717?style=for-the-badge&logo=github)](https://github.com/mdyusufalibd)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/mdyusufalibd) 
+
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufbabo82@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@the-history.-com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-website.com)
