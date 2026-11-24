@@ -10,6 +10,7 @@
 <br>
 
 <p align="center">
+  <a href="https://github.com/mdyusufalibd" target="_blank"><img align="center" src="https://cdn.simpleicons.org/github/white" alt="GitHub" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/mdyusufalibd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.facebook.com/mdyusufali.bd.co" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
   <a href="https://www.instagram.com/mdyusufali.bd/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
@@ -18,6 +19,7 @@
   <a href="https://wa.me/8801791704653" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
   <a href="https://t.me/mdyusufalibd" target="_blank"><img align="center" src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" height="30" width="40" /></a>
   <a href="mailto:yusufbabo82@gmail.com" target="_blank"><img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="30" width="40" /></a>
+  <a href="https://your-website.com" target="_blank"><img align="center" src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Portfolio" height="30" width="40" /></a>
 </p>
 </div>
 
